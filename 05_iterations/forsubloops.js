@@ -25,7 +25,7 @@ for (const i of map) {
 //  array destructure
 
 for (const [key, value] of map) {
-    console.log(key , ':-', value);
+    console.log(key, value);
     
 }
 //  objects cannot be iterated in this maner
